@@ -1,2 +1,5 @@
 /SingleSignApi/bin/Debug/net9.0
 /SingleSignApi/obj/Debug/net9.0
+/SingleSignApi/.vs
+/SingleSignApi/bin
+/SingleSignApi/obj
